@@ -1,0 +1,5 @@
+reset_colour=$(tput sgr0)
+error=$(tput setaf 1)
+info=$(tput setaf 4)
+success=$(tput setaf 2)
+debug=$(tput setaf 3)

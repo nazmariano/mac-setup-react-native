@@ -1,0 +1,5 @@
+echo "$success Homebrew has been installed in the following version: $reset_colour"
+echo " $(pod --version)"
+echo ""
+echo "$success Homebrew has been installed in the following version: $reset_colour"
+echo " $(pod --version)"
