@@ -1,10 +1,5 @@
-# ubuntu-web-dev-tools-installer
+# mac-setup-react-native
 
-![keep growing logo](readme-images/logo_250x60.png)
-
-This project offers a bash script useful when you want to set up your development environment with only one command.
-
-To learn details about this project, check out the [How to install development tools on Ubuntu with a single bash command](https://keepgrowing.in/tools/how-to-install-development-tools-on-ubuntu-with-a-single-bash-command/) post.
 
 ## Getting Started
 
